@@ -1,0 +1,1 @@
+# spanish_municipalities_rent_table
