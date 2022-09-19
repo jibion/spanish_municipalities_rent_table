@@ -1,0 +1,5 @@
+# ignore config files
+config.php
+
+# ignore bak files
+*.bak
