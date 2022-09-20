@@ -1,5 +1,5 @@
 # Spanish Municipalities Home Rent Table
-🗺️ Web Visualization for the public data of the Spanish Home Rent Index
+💻 Table Visualization for the public data of the Spanish Home Rent Index
 
 ![image](https://user-images.githubusercontent.com/11091182/191220096-776a2956-3609-43aa-843e-805f88dc0c52.png)
 
